@@ -3,3 +3,6 @@
 AstralParty game proto files.
 
 Private server soon.
+
+Yoooo nice encryption。
+![](./mmexport1793416635221.jpg)
